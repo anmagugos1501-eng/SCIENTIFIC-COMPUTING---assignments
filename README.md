@@ -1,1 +1,2 @@
 # SCIENTIFIC-COMPUTING--- ASSIGNMENTS
+Ana Maria Gutierrez Gomez
