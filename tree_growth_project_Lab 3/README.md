@@ -95,6 +95,10 @@ Regarding complexity, the three optimizations keep the same order in n, O(n) for
 - Control and treated sprouts can be distinguished moderately; the specific treatments and doses are very similar to each other.
 - Organizing the code into modules made the analysis reproducible with one command (`python main.py`), and vectorized operations reduced the execution time of the main algorithms by up to about 50 times without changing the results.
 
+## IA declaration
+
+I used IA for like a translator, to organize the project into preprocessing modules, to draft the complexity notebooks and README files, and to have concepts I wasn’t clear on explained to me. The analysis decisions were based on the course notebooks and the feedback from Lab 2.
+
 ## References
 
 [1] Case study on the effects of growth regulators on silver maple sprouts, *Canadian Journal of Statistics*, September 1995. Dataset provided by Dr. Fernando Camacho (Ontario Hydro Technologies). Available in OpenML as dataset `cjs` (ID 473): https://www.openml.org/d/473
