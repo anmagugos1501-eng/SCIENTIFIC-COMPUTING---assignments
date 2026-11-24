@@ -97,7 +97,7 @@ Regarding complexity, the three optimizations keep the same order in n, O(n) for
 
 ## IA declaration
 
-I used IA for like a translator, to organize the project into preprocessing modules, to draft the complexity notebooks and README files, and to have concepts I wasn’t clear on explained to me. The analysis decisions were based on the course notebooks and the feedback from Lab 2.
+I used artificial intelligence—specifically Claude, by Anthropic—as a translation tool and as support for organizing the project during the preprocessing phase. It helped me draft and refine code snippets that I wasn’t sure how to develop, guiding me on how to structure and fully implement them. Additionally, I used it to draft and translate README files, as well as to clarify concepts that I didn’t quite understand.
 
 ## References
 
